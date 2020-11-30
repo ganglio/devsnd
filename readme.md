@@ -5,7 +5,7 @@ Golang SDL emulation of the `> /dev/snd` pipe in Linux (for MacOs users).
 ## Installation
 
 ```sh
-$ go get -u https://github.com/ganglio/devsnd
+$ go get -u github.com/ganglio/devsnd
 ```
 
 ## Usage
